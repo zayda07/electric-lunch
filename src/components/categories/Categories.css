@@ -1,0 +1,41 @@
+.categoriesSection {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    place-content: space-evenly;
+    top: 1px;
+    width: 100vw;
+    height: auto;
+    padding-top: 10%;
+    padding-left: 5%;
+    padding-right: 10%;
+}
+.categoriesSection h2 {
+    position: absolute;
+    /* justify-content: space-around; */
+    width: 107px;
+    height: 70px;
+    top: 60%;
+    left: 4%;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+}
+.categoriesSection img {
+    position: relative;
+    /* justify-content: space-around; */
+    width: 107px;
+    height: 70px;
+    top: 22px;
+    left: right;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.categoriesSection p {
+    position: relative;
+    text-align: center;
+    top: 12%;
+}
