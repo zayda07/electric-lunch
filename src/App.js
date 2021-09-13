@@ -1,17 +1,21 @@
 import "./App.css";
-import ProductList from "./components/ProductsList/ProductList";
+import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import Header from "./components/Layout/Header/Header";
-import Categories from "./components/categories/Categories";
-//import Footer from "./components/Layout/Footer/Footer";
-
+import Footer from "./components/Layout/Footer/Footer";
+import Products from "./components/Pages/Products";
+import Cart from "./components/Pages/Cart";
+//import ProductsList from "./reducers/productsList.js";
+//import { useState } from "react";
 function App() {
     return (
-        <div className="App">
+        <Router>
             <Header />
-            <Categories />
-            <ProductList />
-            {/*<Footer />*/}
-        </div>
+            <Switch>
+                <Route exact path="/" component={Products}></Route>
+                <Route exact path="/cart" component={Cart}></Route>
+            </Switch>
+            <Footer className="Footer" />
+        </Router>
     );
 }
 

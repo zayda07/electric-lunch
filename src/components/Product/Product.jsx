@@ -2,21 +2,22 @@ import React, { useState } from "react";
 //import { Box, Grid } from "@material-ui/core";
 import "./Product.css";
 
-function Product({ props }) {
+function Product({ props, addToCart, quantity }) {
     //const images = `${imagen + props.image}`;
     //console.log(images);
-    const [contador, setContador] = useState(0);
+    const [count, setCount] = useState(0);
 
-    const plus = () => setContador(contador + 1);
-    const minus = () => setContador(contador - 1);
+    const plus = () => setCount(count + 1);
+    const minus = () => setCount(count - 1);
 
-    if (contador < 0) {
-        setContador(0);
+    if (count < 0) {
+        setCount(0);
     }
+
     return (
         <div className="productSection">
             <div className="img">
-                <img src={props.image} alt={props.image} />
+                <img src={props.image} alt={props.title} />
             </div>
             <div className="content">
                 <div className="text">
@@ -28,11 +29,16 @@ function Product({ props }) {
                     <button className="minus" onClick={minus}>
                         -
                     </button>
-                    <button className="number">{contador}</button>
+                    <button className="number">{(quantity = [count])}</button>
                     <button className="plus" onClick={plus}>
                         +
                     </button>
-                    <button className="cart">cart</button>
+                    <button
+                        className="cart"
+                        onClick={() => addToCart(props.id)}
+                    >
+                        cart
+                    </button>
                 </div>
             </div>
         </div>

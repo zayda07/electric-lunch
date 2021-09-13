@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.footerSection {
+    width: auto;
+    height: auto;
+    position: sticky;
+    background-color: #c4c4c4;
+    display: flex;
+    flex-direction: row;
+}
+
+.footerSection p {
+    text-align: center;
+}
+button.badge {
+    background-color: #f04040;
+    border: none;
+    color: #ffffff;
+    width: 1.5rem;
+}
