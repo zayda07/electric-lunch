@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/electric-lunch/static/css/main.4748dd42.chunk.css",
-    "main.js": "/electric-lunch/static/js/main.3c394bca.chunk.js",
-    "main.js.map": "/electric-lunch/static/js/main.3c394bca.chunk.js.map",
+    "main.js": "/electric-lunch/static/js/main.f5835fec.chunk.js",
+    "main.js.map": "/electric-lunch/static/js/main.f5835fec.chunk.js.map",
     "runtime-main.js": "/electric-lunch/static/js/runtime-main.d91b7884.js",
     "runtime-main.js.map": "/electric-lunch/static/js/runtime-main.d91b7884.js.map",
     "static/js/2.9a600e55.chunk.js": "/electric-lunch/static/js/2.9a600e55.chunk.js",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.d91b7884.js",
     "static/js/2.9a600e55.chunk.js",
     "static/css/main.4748dd42.chunk.css",
-    "static/js/main.3c394bca.chunk.js"
+    "static/js/main.f5835fec.chunk.js"
   ]
 }
