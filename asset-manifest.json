@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/electric-lunch/static/css/main.4748dd42.chunk.css",
-    "main.js": "/electric-lunch/static/js/main.f5835fec.chunk.js",
-    "main.js.map": "/electric-lunch/static/js/main.f5835fec.chunk.js.map",
-    "runtime-main.js": "/electric-lunch/static/js/runtime-main.d91b7884.js",
-    "runtime-main.js.map": "/electric-lunch/static/js/runtime-main.d91b7884.js.map",
-    "static/js/2.9a600e55.chunk.js": "/electric-lunch/static/js/2.9a600e55.chunk.js",
-    "static/js/2.9a600e55.chunk.js.map": "/electric-lunch/static/js/2.9a600e55.chunk.js.map",
-    "static/js/3.0e5b2e4b.chunk.js": "/electric-lunch/static/js/3.0e5b2e4b.chunk.js",
-    "static/js/3.0e5b2e4b.chunk.js.map": "/electric-lunch/static/js/3.0e5b2e4b.chunk.js.map",
+    "main.js": "/electric-lunch/static/js/main.6ecef4c2.chunk.js",
+    "main.js.map": "/electric-lunch/static/js/main.6ecef4c2.chunk.js.map",
+    "runtime-main.js": "/electric-lunch/static/js/runtime-main.b123326e.js",
+    "runtime-main.js.map": "/electric-lunch/static/js/runtime-main.b123326e.js.map",
+    "static/js/2.7837ea7d.chunk.js": "/electric-lunch/static/js/2.7837ea7d.chunk.js",
+    "static/js/2.7837ea7d.chunk.js.map": "/electric-lunch/static/js/2.7837ea7d.chunk.js.map",
+    "static/js/3.1f504ad7.chunk.js": "/electric-lunch/static/js/3.1f504ad7.chunk.js",
+    "static/js/3.1f504ad7.chunk.js.map": "/electric-lunch/static/js/3.1f504ad7.chunk.js.map",
     "index.html": "/electric-lunch/index.html",
     "static/css/main.4748dd42.chunk.css.map": "/electric-lunch/static/css/main.4748dd42.chunk.css.map",
-    "static/js/2.9a600e55.chunk.js.LICENSE.txt": "/electric-lunch/static/js/2.9a600e55.chunk.js.LICENSE.txt",
+    "static/js/2.7837ea7d.chunk.js.LICENSE.txt": "/electric-lunch/static/js/2.7837ea7d.chunk.js.LICENSE.txt",
     "static/media/argentina.b850f351.png": "/electric-lunch/static/media/argentina.b850f351.png",
     "static/media/darkNight.c017bf94.png": "/electric-lunch/static/media/darkNight.c017bf94.png",
     "static/media/golden.d94944db.png": "/electric-lunch/static/media/golden.d94944db.png",
@@ -30,9 +30,9 @@
     "static/media/tocinetaCheddar.7d4d1795.png": "/electric-lunch/static/media/tocinetaCheddar.7d4d1795.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d91b7884.js",
-    "static/js/2.9a600e55.chunk.js",
+    "static/js/runtime-main.b123326e.js",
+    "static/js/2.7837ea7d.chunk.js",
     "static/css/main.4748dd42.chunk.css",
-    "static/js/main.f5835fec.chunk.js"
+    "static/js/main.6ecef4c2.chunk.js"
   ]
 }
