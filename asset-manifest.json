@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/electric-lunch/static/css/main.4748dd42.chunk.css",
+    "main.js": "/electric-lunch/static/js/main.b665beb4.chunk.js",
+    "main.js.map": "/electric-lunch/static/js/main.b665beb4.chunk.js.map",
+    "runtime-main.js": "/electric-lunch/static/js/runtime-main.d91b7884.js",
+    "runtime-main.js.map": "/electric-lunch/static/js/runtime-main.d91b7884.js.map",
+    "static/js/2.9a600e55.chunk.js": "/electric-lunch/static/js/2.9a600e55.chunk.js",
+    "static/js/2.9a600e55.chunk.js.map": "/electric-lunch/static/js/2.9a600e55.chunk.js.map",
+    "static/js/3.0e5b2e4b.chunk.js": "/electric-lunch/static/js/3.0e5b2e4b.chunk.js",
+    "static/js/3.0e5b2e4b.chunk.js.map": "/electric-lunch/static/js/3.0e5b2e4b.chunk.js.map",
+    "index.html": "/electric-lunch/index.html",
+    "static/css/main.4748dd42.chunk.css.map": "/electric-lunch/static/css/main.4748dd42.chunk.css.map",
+    "static/js/2.9a600e55.chunk.js.LICENSE.txt": "/electric-lunch/static/js/2.9a600e55.chunk.js.LICENSE.txt",
+    "static/media/argentina.b850f351.png": "/electric-lunch/static/media/argentina.b850f351.png",
+    "static/media/darkNight.c017bf94.png": "/electric-lunch/static/media/darkNight.c017bf94.png",
+    "static/media/golden.d94944db.png": "/electric-lunch/static/media/golden.d94944db.png",
+    "static/media/hamburguesaMonster.6d7abe21.png": "/electric-lunch/static/media/hamburguesaMonster.6d7abe21.png",
+    "static/media/hamburguesa_faltante.94c4e6e3.webp": "/electric-lunch/static/media/hamburguesa_faltante.94c4e6e3.webp",
+    "static/media/hotdog_faltante.dff9301c.jpg": "/electric-lunch/static/media/hotdog_faltante.dff9301c.jpg",
+    "static/media/logo.1b20a3a4.png": "/electric-lunch/static/media/logo.1b20a3a4.png",
+    "static/media/mexicana.9382d9e3.png": "/electric-lunch/static/media/mexicana.9382d9e3.png",
+    "static/media/miniPepito.62c55f16.png": "/electric-lunch/static/media/miniPepito.62c55f16.png",
+    "static/media/perroElectric.d56d35c2.png": "/electric-lunch/static/media/perroElectric.d56d35c2.png",
+    "static/media/polloCrunchy.1cd538e8.png": "/electric-lunch/static/media/polloCrunchy.1cd538e8.png",
+    "static/media/polloSalteado.7684a2cd.png": "/electric-lunch/static/media/polloSalteado.7684a2cd.png",
+    "static/media/redHot.9248c56c.png": "/electric-lunch/static/media/redHot.9248c56c.png",
+    "static/media/sencilla.80647cbe.png": "/electric-lunch/static/media/sencilla.80647cbe.png",
+    "static/media/tino.36fb50bd.png": "/electric-lunch/static/media/tino.36fb50bd.png",
+    "static/media/tocinetaCheddar.7d4d1795.png": "/electric-lunch/static/media/tocinetaCheddar.7d4d1795.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d91b7884.js",
+    "static/js/2.9a600e55.chunk.js",
+    "static/css/main.4748dd42.chunk.css",
+    "static/js/main.b665beb4.chunk.js"
+  ]
+}
